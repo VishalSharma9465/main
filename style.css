@@ -1,0 +1,376 @@
+.header_section{
+    background-image: url(/home/prince/Desktop/newfolder/image/image1/banner-bg.png);
+    height: auto;
+    width: 100%;
+    background-size: 100%;
+    background-size: cover;
+    
+    
+}
+.bg-light{
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.container{
+    margin-top: 50px;
+}
+
+.logo{
+    width: 35%;
+  padding: 7px 0px;
+ 
+ 
+}
+
+.login_text{
+    margin-left: 150px;
+}
+.nav-item{
+    margin-left: 20px;
+    
+}
+.div1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 10px;
+    font-weight: bold;
+
+
+}
+.h1{
+    color: orange;
+    
+}
+.p{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    margin-top: 130px;
+}
+.read-btn {
+    border: 3px solid orange;
+    margin: auto;
+    width: 170px;
+    text-align: center;
+    margin-top: 40px;
+    padding: 5px 0px;
+   
+}
+.read-btn:hover{
+    background-color: white;
+}
+.main-box{
+    background-color: orange;
+    text-align: center;
+    border-radius: 7px;
+    width: 100%;
+    height: 210px;
+}
+.main-boxactive{
+    box-shadow: 0px 3px 20px -3px #f4f4f4;
+    text-align: center;
+    border-radius: 7px;
+    width: 100%;
+    height: 210px;
+}
+.col-lg-3,
+.col-sm-6{
+    text-align: center;
+    
+}
+.readmore-btn:hover{
+    border-bottom: 1px solid orange;
+}
+.readmore-btn{
+    margin-top: 60px;
+    text-align: center;
+}
+.language_layout{
+    float: left;
+    width: 100%;
+}
+.icon-1{
+    padding: 20px;
+    
+}
+.language-section{
+    float: left;
+    width: 100%;
+    margin-top: 130px;
+}
+.appoinment_btn{
+    margin-top: 70px;
+    color: orange;
+    border: 2px solid orange;
+    width: 200px;
+    text-align: center;
+    padding: 10px 0px;
+}
+.appoinment_btn a{
+    color: orange;
+}
+.img3{
+    margin-top: 20px;
+    position: relative;
+    right: 240px;
+}
+.about-section{
+    float: left;
+    width: 100%;
+    margin-top: 130px;
+}.image-1{
+    background-image: url(/home/prince/Desktop/newfolder/image/image1/img-1.png);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    border-radius: 10px;
+}
+.playicon{
+    position: relative;
+    top: 150px;
+    text-align: center;
+
+    
+}
+.head1{
+    padding-top: 50px;
+}
+.preh1{
+    padding-top: 30px;
+}
+.read-button{
+    border: 3px solid orange;
+    text-align: center;
+    padding: 12px 45px;
+}
+.read{
+    margin-top: 50px;
+}
+.l-section{
+    margin-top: 190px;
+    float: left;
+    width: 100%;
+}
+.border-hr{
+    background-color: orange;
+    width: 770px;
+    position: relative;
+    top: 1px;
+    left: 12px;
+}
+.flag-main{
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+}
+.flag-text{
+    float: left;
+}
+.learn_text{
+    background-color: #e0ce64;
+    border-radius: 50px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid #e0ce64;
+    padding-top: 5px;
+}
+.text12{
+    text-align: center;
+}
+.flag-main2{
+    display: flex;
+    width: 100%;
+}
+.events_section{
+    margin-top: 150px;
+    background-color: #270b60;
+    position: relative;
+    height: 700px;
+}
+.headingevents{
+    color: orange;
+    padding-top: 20px;
+}
+.p2{
+    color: aliceblue;
+}
+.pr1{
+    background-color: black;
+    position: absolute;
+    top: 270px;
+    left: 90px;
+    width: 350px;
+    z-index: 9;
+    color: white;
+}
+.image_main::after{
+    content: '';
+    position: absolute;
+    background-color: #f4f4f4;
+    top: 50px;
+    width: 550px;
+    height: 350px;
+    right: 20px;
+
+}
+.image-7{
+    display: block;
+    z-index: 9;
+    position: relative;
+}
+.h12{
+    margin-top: 100px;
+}
+.live-section{
+    position: relative;
+    display: flex;
+}
+.live-event{
+    font-weight: bold;
+}
+.date-event{
+    margin-left: 350px;
+    font-weight: bold;
+    color: #e0ce64;
+}
+.read-more-butt{
+    border: 3px solid orange;
+    margin: auto;
+    width: 170px;
+    margin-top: 70px;
+    padding: 10px 0px ;
+}
+.student-section{
+    margin-top: 160px;
+}
+.study-main{
+    display: flex;
+    width: 60%;
+    background-color: #ffffff;
+    height: 200px;
+    padding: 20px 20px 0px 0px;
+    box-shadow: 0px 10px 17px 6px #dbdbdb;
+    margin: auto;
+    margin-top: 50px;
+    margin-top: 100px;
+}
+.text-study{
+    text-align: center;
+    font-weight: bold;
+}
+.preh-study{
+    text-align: center;
+    font-weight: bold;
+
+}
+.image-9{
+    position: relative;
+    right: 50px;
+    bottom: 50px;
+}
+.image-study{
+    height: 200px;
+}
+.michal{
+    color: orange;
+}
+.icon-study{
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+.new-letter{
+    background-color: #270b60;
+    margin-top: 30px;
+    height: 230px;
+    position: relative;
+    top: 170px;
+}
+.new-sub{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 70px;
+}
+.main-letter{
+    display: flex;
+    width: 60%;
+    margin: auto;
+}
+.left-icon{
+    background-color: #e0ce64;
+    text-align: center;
+    width: 60px;
+    padding-top: 5px;
+}
+.input-email{
+    width: 100%;
+    padding-left: 10px;
+    height: 40px;
+}
+.get{
+    text-align: center;
+    padding-top: 150px;
+    color: wheat;
+}
+.footer-section{
+    background-color: black;
+    height: auto;
+
+}
+.main-email{
+    margin: auto;
+}
+.input-text{
+    background-color: black;
+    border: 0;
+    border-bottom: 2px solid white;
+    width: 100%;
+    padding-top: 20px;
+    color: aliceblue;
+}
+
+.button1{
+    margin: auto;
+    color: #e0ce64;
+    padding-top: 5px;
+    border: 3px solid orange;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+}
+.call-section{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.span-call{
+    color: aliceblue;
+}
+.icon-images{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    margin-top: 30px;
+}
+li{
+    float: left;
+    padding-left: 20px;
+}
+ul{
+    display: inline-block;
+}
+.copy-right{
+    background-color: black;
+    box-shadow: 0px 10px 20px 1px #a4a4a4;
+    padding: 10px 0px;
+}
+.copyright{
+    text-align: center;
+    color: aliceblue;
+}
+.main-boxactive:hover{
+    background-color: orange;
+}
